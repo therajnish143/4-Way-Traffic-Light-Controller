@@ -21,12 +21,9 @@ This project implements a **4-way intersection traffic light controller** using 
 ```
 traffic_light_controller/
 │
-├── src/
-│   └── tlc.v       # Verilog design file
-├── testbench/
-│   └── tlc_tb.v         # Testbench to verify design
-├── docs/
-   └── README.md                  # Documentation (this file)
+├──── tlc.v       # Verilog design file
+├──── tlc_tb.v         # Testbench to verify design
+├──── README.md                  # Documentation (this file)
 
 ```
 
