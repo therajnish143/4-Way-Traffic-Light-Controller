@@ -340,6 +340,9 @@ endmodule
 
 
 ## Results
+
+![image](https://github.com/user-attachments/assets/6db3c96f-8cb6-4216-acb0-e77b9480abb0)
+
 - **Emergency vehicles** get top priority.
 - **Heavy traffic** roads get green signals when no emergencies occur.
 - **Default state** is red when no traffic is detected.
