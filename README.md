@@ -49,6 +49,9 @@ The **FSM design** governs the signal logic with these states:
 2. **PRIORITY:** Emergency vehicle detected.
 3. **TRAFFIC CONTROL:** Switching signals based on density.
 
+   ![image](https://github.com/user-attachments/assets/2fd69d46-5f4a-4ea8-a37d-40b7445cba1d)
+
+
 ## Input/Output Specifications
 ### Inputs:
 ```verilog
