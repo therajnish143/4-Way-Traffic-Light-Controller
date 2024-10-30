@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tlc_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="tlc_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="291.254 ns"></ZoomEndTime>
+      <Cursor1Time time="383.197 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="149"></NameColumnWidth>
+      <ValueColumnWidth column_width="148"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="27" />
+   <wvobject fp_name="/tlc_tb/clock" type="logic">
+      <obj_property name="ElementShortName">clock</obj_property>
+      <obj_property name="ObjectShortName">clock</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/clear" type="logic">
+      <obj_property name="ElementShortName">clear</obj_property>
+      <obj_property name="ObjectShortName">clear</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/a1" type="logic">
+      <obj_property name="ElementShortName">a1</obj_property>
+      <obj_property name="ObjectShortName">a1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/a2" type="logic">
+      <obj_property name="ElementShortName">a2</obj_property>
+      <obj_property name="ObjectShortName">a2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/a3" type="logic">
+      <obj_property name="ElementShortName">a3</obj_property>
+      <obj_property name="ObjectShortName">a3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/b1" type="logic">
+      <obj_property name="ElementShortName">b1</obj_property>
+      <obj_property name="ObjectShortName">b1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/b2" type="logic">
+      <obj_property name="ElementShortName">b2</obj_property>
+      <obj_property name="ObjectShortName">b2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/b3" type="logic">
+      <obj_property name="ElementShortName">b3</obj_property>
+      <obj_property name="ObjectShortName">b3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/c1" type="logic">
+      <obj_property name="ElementShortName">c1</obj_property>
+      <obj_property name="ObjectShortName">c1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/c2" type="logic">
+      <obj_property name="ElementShortName">c2</obj_property>
+      <obj_property name="ObjectShortName">c2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/c3" type="logic">
+      <obj_property name="ElementShortName">c3</obj_property>
+      <obj_property name="ObjectShortName">c3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/d1" type="logic">
+      <obj_property name="ElementShortName">d1</obj_property>
+      <obj_property name="ObjectShortName">d1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/d2" type="logic">
+      <obj_property name="ElementShortName">d2</obj_property>
+      <obj_property name="ObjectShortName">d2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/d3" type="logic">
+      <obj_property name="ElementShortName">d3</obj_property>
+      <obj_property name="ObjectShortName">d3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/rc1" type="logic">
+      <obj_property name="ElementShortName">rc1</obj_property>
+      <obj_property name="ObjectShortName">rc1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/rc2" type="logic">
+      <obj_property name="ElementShortName">rc2</obj_property>
+      <obj_property name="ObjectShortName">rc2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/rc3" type="logic">
+      <obj_property name="ElementShortName">rc3</obj_property>
+      <obj_property name="ObjectShortName">rc3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/rc4" type="logic">
+      <obj_property name="ElementShortName">rc4</obj_property>
+      <obj_property name="ObjectShortName">rc4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/ss1" type="logic">
+      <obj_property name="ElementShortName">ss1</obj_property>
+      <obj_property name="ObjectShortName">ss1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/ss2" type="logic">
+      <obj_property name="ElementShortName">ss2</obj_property>
+      <obj_property name="ObjectShortName">ss2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/ss3" type="logic">
+      <obj_property name="ElementShortName">ss3</obj_property>
+      <obj_property name="ObjectShortName">ss3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/ss4" type="logic">
+      <obj_property name="ElementShortName">ss4</obj_property>
+      <obj_property name="ObjectShortName">ss4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/ID" type="array">
+      <obj_property name="ElementShortName">ID[11:0]</obj_property>
+      <obj_property name="ObjectShortName">ID[11:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/camera" type="logic">
+      <obj_property name="ElementShortName">camera</obj_property>
+      <obj_property name="ObjectShortName">camera</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/state" type="array">
+      <obj_property name="ElementShortName">state[5:0]</obj_property>
+      <obj_property name="ObjectShortName">state[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/next_state" type="array">
+      <obj_property name="ElementShortName">next_state[5:0]</obj_property>
+      <obj_property name="ObjectShortName">next_state[5:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tlc_tb/maxoutput" type="array">
+      <obj_property name="ElementShortName">maxoutput[2:0]</obj_property>
+      <obj_property name="ObjectShortName">maxoutput[2:0]</obj_property>
+   </wvobject>
+</wave_config>
